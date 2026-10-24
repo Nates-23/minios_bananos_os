@@ -1,0 +1,2 @@
+# BanOnaS OS uses only the Python standard library.
+# No packages need to be installed. Requires Python 3.8 or newer.
